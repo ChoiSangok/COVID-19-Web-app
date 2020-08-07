@@ -8,6 +8,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 
+
 	<title>코로나-19 종합관리센터(COVID-19)</title>
 
 	<meta charset="utf-8">
